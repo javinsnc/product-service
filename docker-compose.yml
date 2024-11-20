@@ -1,6 +1,6 @@
 version: '4'
 services:
-  mongodb:
+  product-service-mongodb:
     image: mongo:7.0.5
     container_name: mongodb
     ports:
