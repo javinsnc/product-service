@@ -20,7 +20,7 @@ public class OpenAPIConfig {
                         .license(new License().name("Apache 2.0")))
                 .externalDocs(new ExternalDocumentation()
                         .description("You can refer to the Product Service Wiki Documentation")
-                        .url("https://producet-service-dummy-url.com/docs")
+                        .url("https://product-service-dummy-url.com/docs")
                 );
     }
 }
